@@ -11,7 +11,6 @@
 - **Dockable Handy UI Panel**: Features an easy-to-use panel with three buttons.
 - **Adjustable Properties**: Adjust position, anchor point alignment, and size of the shape.
 
-![custom shape](customShape.gif)
 
 ## Installation
 1. Download the `.zxp` file 

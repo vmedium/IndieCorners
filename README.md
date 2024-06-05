@@ -8,8 +8,8 @@
 - **Create New**: Creates a standard rectangle shape where you can control each corner's roundness.
 - **Replace Rect**: Replaces an existing rectangle, preserving its properties but adds the ability to control corners.
 - **Replace Poly**: Replaces a custom shape made by the pen tool, imported from Figma, etc.
-- **Dockable Handy UI Panel**: Features an easy-to-use panel with three buttons.
-- **Adjustable Properties**: Adjust position, anchor point alignment, and size of the shape.
+- **Dockable UI Panel**: Small, responsive, doesn't take much space
+- **Adjustable Properties**: Adjust position, anchor point alignment, and size of the shape from effects panels.
 
 ![custom shape](customShape.gif)
 
